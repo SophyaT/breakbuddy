@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/breakbuddy/static/css/main.ff38ba52.css",
+    "main.js": "/breakbuddy/static/js/main.1f3a1ee7.js",
+    "index.html": "/breakbuddy/index.html",
+    "main.ff38ba52.css.map": "/breakbuddy/static/css/main.ff38ba52.css.map",
+    "main.1f3a1ee7.js.map": "/breakbuddy/static/js/main.1f3a1ee7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff38ba52.css",
+    "static/js/main.1f3a1ee7.js"
+  ]
+}
